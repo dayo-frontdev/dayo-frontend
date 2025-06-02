@@ -5,7 +5,7 @@ Frontend Developer passionate about building responsive and user-friendly web in
 
 ## 🧭 Connect with me  
 📸 [Instagram: @dayo_frontdev](https://instagram.com/dayo_frontdev)  
-🐦 [X (Twitter): @dayo_frontdev](https://x.com/dayo_frontdev)
+🐦 [X (Twitter): @dayo_frontdev](https://x.com/dayo_frontdev)<br>
 🔗 [Linkedin: olawale dayo](http://linkedin.com/in/olawale-dayo-201919368)
 
 ## 💡 Fun Fact  
