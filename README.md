@@ -4,8 +4,9 @@ Computer Science student at NOUN
 Frontend Developer passionate about building responsive and user-friendly web interfaces.
 
 ## 🧭 Connect with me  
-📸 [Instagram: @ayofebreeze](https://instagram.com/ayofe_breeze)  
-🐦 [X (Twitter): @Ayofe_breeze](https://x.com/Ayofe_breeze)
+📸 [Instagram: @dayo_frontdev](https://instagram.com/dayo_frontdev)  
+🐦 [X (Twitter): @dayo_frontdev](https://x.com/dayo_frontdev)
+🔗 [Linkedin: olawale dayo](http://linkedin.com/in/olawale-dayo-201919368)
 
 ## 💡 Fun Fact  
 *A step toward a beginning is walking in accomplishment.*
